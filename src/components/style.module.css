@@ -1,0 +1,21 @@
+.first_p {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.container {
+    margin: 0 auto;
+    text-align: center;
+    width: 300px;
+}
+body {
+    background-color: rgb(17, 175, 151);
+}
+.second_p{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.third_p:hover{
+    background-color: yellow;
+    border-radius: 5px;
+}
